@@ -1,0 +1,2 @@
+[functions.gemini-tryon]
+verify_jwt = false
